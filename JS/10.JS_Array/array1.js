@@ -178,6 +178,6 @@ console.log('==============================');
 */
 // console.log(newFruits.splice(1, 2, 'melon'), newFruits);
 
-console.log(newFruits.splice(2, 1),  newFruits);
+console.log(newFruits.splice(2, 1), newFruits);
 
 
